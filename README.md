@@ -183,7 +183,7 @@ This project demonstrates:
 
 ##  Developed By
 
-Rahkhuo Edward and Thiyam Chingu Robaartt
+Rahkhuo Edward and Thiyam Chingu Robaartt<br>
 National Institute of Technology, Manipur
 
 ---
